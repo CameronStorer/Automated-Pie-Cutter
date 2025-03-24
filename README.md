@@ -8,9 +8,9 @@ Circuitry/wiring: Cameron Storer
 
 3D model creation: Griffin Willingham
 
-Machine assembly: Griffin Willingham, Cameron Storer
+: Griffin Willingham, Cameron Storer, Joseph Henson
 
-programmed stepper motors: Griffin Willingham, Cameron Storer, Joseph Henson
+Assembly and programming of stepper motors: Griffin Willingham, Cameron Storer, Joseph Henson
 
 Pie cutter concept: Joseph Henson
 
