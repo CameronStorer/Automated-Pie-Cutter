@@ -7,16 +7,16 @@ This code was designed with intent to be executed on a rasberry pi connected to 
 
 ## Credit:
 
-*GUI*: Joseph Henson
+**GUI**: Joseph Henson
 
-*Circuitry/wiring*: Cameron Storer
+**Circuitry/wiring**: Cameron Storer
 
-*3D model creation*: Griffin Willingham
+**3D model creation**: Griffin Willingham
 
-*Python backend*: Griffin Willingham, Cameron Storer, Joseph Henson
+**Python backend**: Griffin Willingham, Cameron Storer, Joseph Henson
 
-*Assembly and programming of stepper motors*: Griffin Willingham, Cameron Storer, Joseph Henson
+**Assembly and programming of stepper motors**: Griffin Willingham, Cameron Storer, Joseph Henson
 
-*Pie cutter concept*: Joseph Henson
+**Pie cutter concept**: Joseph Henson
 
 ---
