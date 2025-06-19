@@ -8,7 +8,7 @@ Circuitry/wiring: Cameron Storer
 
 3D model creation: Griffin Willingham
 
-: Griffin Willingham, Cameron Storer, Joseph Henson
+Python backend: Griffin Willingham, Cameron Storer, Joseph Henson
 
 Assembly and programming of stepper motors: Griffin Willingham, Cameron Storer, Joseph Henson
 
